@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nakedpress\n"
+"POT-Creation-Date: 2016-04-10 11:38+0100\n"
+"PO-Revision-Date: 2016-07-04 18:42+0100\n"
+"Last-Translator: Andrea Marchetti <afmarchetti@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"Language: it\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! Questa pagina non è stata trovata."
+
+#: ../404.php:17
+msgid "404 Error"
+msgstr "Errore 404"
+
+#: ../404.php:19
+msgid ""
+"The page you are trying to reach does not exist, or has been moved. Please "
+"use the menus or the search box to find what you are looking for."
+msgstr ""
+"La pagina che stai cercando non esiste, o è stata spostata. Per favore usa "
+"il menù o la ricerca qui sotto per cercare la pagina."
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr "Per favore non caricare questa pagina direttamente. Grazie!"
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Questo post è protetto da password. Inserisci la password per vedere i "
+"commenti."
+
+#: ../comments.php:13
+msgid "No Responses"
+msgstr "Nessun Commento"
+
+#: ../comments.php:13
+msgid "1 Response"
+msgstr "% Commenti"
+
+#: ../comments.php:13
+msgid "% Responses"
+msgstr "% Commenti"
+
+#: ../comments.php:31 ../comments.php:39
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../comments.php:50
+msgid "Submit Comment"
+msgstr "Invia Commento"
+
+#: ../comments.php:56
+msgid "Comments RSS Feed"
+msgstr "Rss Feed dei commenti"
+
+#: ../footer.php:29
+msgid "&copy; Copyright "
+msgstr "&copy; Copyright "
+
+#: ../index.php:22
+msgid "Result for:"
+msgstr "Risultati per:"
+
+#: ../index.php:67 ../page-templates/home-page.php:57 ../page.php:37
+#: ../single.php:42
+msgid "Sorry, no posts matched your criteria."
+msgstr "Spiacenti, nessun post corrisponde ai criteri selezionati."
+
+#: ../index.php:68
+msgid "Try to make a search..."
+msgstr "Prova con una ricerca..."
+
+#: ../page.php:28
+msgid "Read More..."
+msgstr "Leggi di più..."
+
+#: ../searchform.php:12
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Powered by "
+msgstr "Powered by "
+
+msgid "Logo"
+msgstr "Logo"
+
+msgid ""
+"Upload a logo to replace the default site name and description in the header"
+msgstr ""
+"Carica un logo per sostituire il nome del sito e la descrizione nell'header"
